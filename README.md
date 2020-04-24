@@ -2,7 +2,7 @@
 
 THE ODIN PROJECT: ROCK PAPER SCISSORS
 
-Rock Paper Scissors <a href="https://christian-ortega.github.io/rock-paper-scissors/" target="_blank">(https://christian-ortega.github.io/rock-paper-scissors/)</a>
+Rock Paper Scissors <a href="https://christian-ortega.github.io/rock-paper-scissors/" target="_blank">(View in Browser)</a>
 
 This is an implementation of the classic hand game "Rock Paper Scissors" using prompts, alerts, and console logs in JavaScript.
 
